@@ -1,0 +1,4 @@
+package org.example.repositorios.impl;
+
+public class InMemoryArticuloRepository {
+}
